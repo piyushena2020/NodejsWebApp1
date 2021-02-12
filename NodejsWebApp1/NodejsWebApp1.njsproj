@@ -28,7 +28,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="server.js" />
+    <Content Include="server1.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
